@@ -2,13 +2,13 @@
 
 <div class="con">
                     <p class="p-title">Mod API</p>
-                    <a href="../modapi/2-2-1.html" class="p-href sec">Mod SDK documentation</a>
+                    <a href="../modapi/2-2-1" class="p-href sec">Mod SDK documentation</a>
                   <br>
-                    <a href="../modapi/2-2-2.html" class="p-href sec">Minecraft Enumeration Values</a>
+                    <a href="../modapi/2-2-2" class="p-href sec">Minecraft Enumeration Values</a>
                   <br>
-                    <a href="../modapi/2-2-3.html" class="p-href sec">UI API</a>
+                    <a href="../modapi/2-2-3" class="p-href sec">UI API</a>
                   <br>
-                    <a href="../modapi/2-2-4.html" class="p-href sec">Putting Mods on the Marketplace</a>
+                    <a href="../modapi/2-2-4" class="p-href sec">Putting Mods on the Marketplace</a>
                 </div>
             </div>
 

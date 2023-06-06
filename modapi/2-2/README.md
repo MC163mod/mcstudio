@@ -2,12 +2,12 @@
 
 <div class="con">
                     <p class="p-title">Mod API</p>
-                    <a href="../modapi/2-2-1.html" class="p-href sec">Mod SDK文档</a>
+                    <a href="../modapi/2-2-1.html" class="p-href sec">Mod SDK documentation</a>
                   <br>
-                    <a href="../modapi/2-2-2.html" class="p-href sec">Minecraft枚举值文档</a>
+                    <a href="../modapi/2-2-2.html" class="p-href sec">Minecraft Enumeration Values</a>
                   <br>
                     <a href="../modapi/2-2-3.html" class="p-href sec">UI API</a>
                   <br>
-                    <a href="../modapi/2-2-4.html" class="p-href sec">联机大厅商品Mod文档</a>
+                    <a href="../modapi/2-2-4.html" class="p-href sec">Putting Mods on the Marketplace</a>
                 </div>
             </div>

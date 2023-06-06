@@ -1,4 +1,4 @@
-<a href="https://g79.gdl.netease.com/MC_Mod_SDK_Documents_and_Tools20190712.zip" class="download" title="工具示例下载">Download PDF</a>
+<a href="https://g79.gdl.netease.com/MC_Mod_SDK_Documents_and_Tools20190712.zip" class="download" title="工具示例下载">Download ZIP</a>
 
 <div class="con">
                     <p class="p-title">Mod API</p>
